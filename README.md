@@ -10,7 +10,7 @@ Formulário feito em React. Seguindo todo o conceito de um CRUD (criar, ler, atu
 
 ![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
 ![Badge](https://img.shields.io/static/v1?label=javascript&message=Language&color=yellow&style=for-the-badge&logo=JAVASCRIPT)
-![Badge](https://img.shields.io/static/v1?label=nodejs&message=framework&color=green&style=for-the-badge&logo=nodejs)
+![Badge](https://img.shields.io/static/v1?label=node.js&message=framework&color=green&style=for-the-badge&logo=node.js)
 ![Badge](https://img.shields.io/static/v1?label=axios&message=framework&color=purple&style=for-the-badge&logo=AXIOS)
 ![Badge](https://img.shields.io/static/v1?label=ajax&message=framework&color=blue&style=for-the-badge&logo=ajax)
 ![Badge](https://img.shields.io/static/v1?label=bootstrap&message=framework&color=purple&style=for-the-badge&logo=BOOTSTRAP)
